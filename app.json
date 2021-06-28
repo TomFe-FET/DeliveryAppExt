@@ -1,0 +1,32 @@
+{
+  "id": "c3f68723-e972-473f-a286-8417eb6a6bf0",
+  "name": "DeliveryAppExt",
+  "publisher": "GWS mbH",
+  "version": "18.2.0.2",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "1b6fb419-ee35-483d-8290-5936c7d6b577",
+      "name": "gevis-erp",
+      "publisher": "GWS mbH",
+      "version": "18.2.0.0"
+  }
+  ],
+  "screenshots": [],
+  "idRanges": [
+      {
+        "from": 51780,
+        "to": 51790
+      }
+  ],
+  "contextSensitiveHelpUrl": "https://DeliveryAppExt.com/help/",
+  "showMyCode": true,
+  "target": "Cloud",
+  "runtime": "6.0"
+}
